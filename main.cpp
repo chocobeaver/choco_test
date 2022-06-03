@@ -2,5 +2,5 @@
 int main()
 {
     std::cout<<"hello";
-    std::cout<<"world";
+    std::cout<<"planet";
 }
